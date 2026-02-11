@@ -32,9 +32,6 @@ Senior Software Engineer and Technical Lead with over **13 years of experience**
 **May 2021 – December 2022**
 - Developed robust backend solutions for core banking and prepared systems for architectural transitions.
 
-### **Project-Based** | *Technical Consultant*
-- **TBC Bank & Grasen Integration:** Leading the integration of self-service terminals with EV chargers, bridging hardware protocols with banking software.
-
 ### **Liberty Bank** | *Senior Software Engineer*
 **April 2019 – December 2022**
 - Delivered critical software solutions and system optimizations for one of Georgia's largest commercial banks.
