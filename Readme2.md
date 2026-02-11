@@ -1,7 +1,7 @@
 # Irakli Sokhadze
 **Tech Lead | Senior .NET Developer** 📍 Tbilisi, Georgia  
 📞 598500860 | 📧 [irakli.sokhadze@outlook.com](mailto:irakli.sokhadze@outlook.com)  
-🔗 [LinkedIn Profile](# https://www.linkedin.com/in/irakli-sokhadze-36b42b204/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/irakli-sokhadze-36b42b204/)
 
 ---
 
