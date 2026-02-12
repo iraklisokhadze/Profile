@@ -21,18 +21,18 @@ Senior Software Engineer and Technical Lead with over **13 years of experience**
 ## 💼 Professional Experience
 
 ### **Space International** | *Technical Lead*
-**December 2022 – Present**
+**December 2022 - Present**
 - **Leadership:** Enforcing Trunk-Based Development and "You Build It, You Run It" principles for full software lifecycle ownership.
 - **Modernization:** Spearheaded the decomposition of legacy monoliths into distributed microservices.
 - **Architecture:** Designed event-driven architectures using **Kafka** and **PostgreSQL**.
 - **Observability:** Integrated Kibana for real-time monitoring, significantly reducing incident response times.
 
 ### **Space International** | *Back End Developer*
-**May 2021 – December 2022**
+**May 2021 - December 2022**
 - Developed robust backend solutions for core banking and prepared systems for architectural transitions.
 
 ### **Liberty Bank** | *Senior Software Engineer*
-**April 2019 – December 2022**
+**April 2019 - December 2022**
 - Delivered critical software solutions and system optimizations for one of Georgia's largest commercial banks.
 
 ### **Terabank** | *Back End Developer*
@@ -42,4 +42,4 @@ Senior Software Engineer and Technical Lead with over **13 years of experience**
 ---
 
 ## 🎓 Education
-- **Tbilisi State University** *Bachelor of Applied Science (B.A.Sc.) – Computer Science* | 2010
+- **Tbilisi State University** *Bachelor of Applied Science (B.A.Sc.) - Computer Science* | 2010
