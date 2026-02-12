@@ -15,7 +15,6 @@ Senior Software Engineer and Technical Lead with over **13 years of experience**
 | **Backend** | .NET Core, .NET Framework, C#, ASP.NET |
 | **Data & Streaming** | Kafka, PostgreSQL, Oracle SQL |
 | **Observability** | Kibana, ELK Stack |
-| **Other** | JavaScript, Hardware-Software Integration (EV Chargers/Terminals) |
 
 ---
 
